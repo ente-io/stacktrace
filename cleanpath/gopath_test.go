@@ -8,7 +8,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/palantir/stacktrace/cleanpath"
+	"github.com/ente-io/stacktrace/cleanpath"
 )
 
 func TestRemoveGoPath(t *testing.T) {

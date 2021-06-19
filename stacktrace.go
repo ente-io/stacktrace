@@ -20,7 +20,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/palantir/stacktrace/cleanpath"
+	"github.com/ente-io/stacktrace/cleanpath"
 )
 
 /*

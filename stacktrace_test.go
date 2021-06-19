@@ -22,7 +22,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/palantir/stacktrace"
+	"github.com/ente-io/stacktrace"
 )
 
 func TestMessage(t *testing.T) {

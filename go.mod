@@ -1,4 +1,4 @@
-module github.com/palantir/stacktrace
+module github.com/ente-io/stacktrace
 
 go 1.14
 
